@@ -1,6 +1,6 @@
 // Enter an API key from the Google API Console:
 //   https://console.developers.google.com/apis/credentials
-const apiKey = "";
+const apiKey = "AIzaSyAdtMFQtcmF-JLlj3ofq9qDG_tOzfp1Lyk";
 
 // Set endpoints
 const endpoints = {
